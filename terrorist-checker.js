@@ -3,6 +3,5 @@ if(answer == "no") {
   alert('OK. You can use this website normally.');
 } else {
   alert('You might be a terrorist')
-  document.write('<img src=\"https://placekitten.com/g/500/200\" />');
-  document.write('<!--');
+  window.location = "http://danlopez2012.com/wp-content/uploads/2011/01/mean-300x245.jpg";
 }
